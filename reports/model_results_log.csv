@@ -1,0 +1,2 @@
+category,best_cv_f1_score,test_accuracy,test_f1_real_review,test_precision_real_review,best_params,training_time_minutes
+Toys_and_Games_LGBM,1.0,1.0,1.0,1.0,"{'model__learning_rate': 0.1, 'model__n_estimators': 100, 'model__num_leaves': 31, 'preprocessor__text__max_features': 15000}",12.837759141127268
