@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,training_time_minutes
+Deceptency_lightgbm_diplomacy,0.9440834846104792,"{'model__learning_rate': 0.1, 'model__n_estimators': 500, 'preprocessor__text__max_features': 15000}",0.9098869025902955,0.9526910553533806,0.9143382352941176,1.1170511325200398
