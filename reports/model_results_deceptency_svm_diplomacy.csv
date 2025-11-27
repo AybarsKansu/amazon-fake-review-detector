@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,test_f1_deception,test_precision_deception,training_time_minutes
+Deceptency_SVM_Diplomacy,0.588401766384284,"{'model__C': 1, 'model__kernel': 'rbf', 'preprocessor__text__max_features': 5000}",0.861729295877417,0.9239719157472417,0.927133655394525,0.23742454728370221,0.22957198443579765,4.498623681068421

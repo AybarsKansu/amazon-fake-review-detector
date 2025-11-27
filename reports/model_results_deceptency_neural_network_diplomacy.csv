@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,test_f1_deception,test_precision_deception,training_time_minutes
+Deceptency_NeuralNetwork_Diplomacy,0.5365439850377396,"{'model__alpha': 0.0001, 'model__hidden_layer_sizes': (256, 128, 64), 'model__learning_rate_init': 0.001, 'model__solver': 'sgd', 'preprocessor__text__max_features': 10000}",0.8672017511856986,0.9281200631911533,0.9168942645337496,0.1291866028708134,0.15168539325842698,19.425778357187905
