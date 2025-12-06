@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,test_f1_deception,test_precision_deception,training_time_minutes
+Deceptency_Ensemble_VotingSoft_PreTrained,N/A,Soft Voting (RandomForest+SVM+LightGBM+MLP+NaiveBayes+LogisticRegression),0.9025902955125866,0.9485846331600231,0.9149331352154532,0.07612456747404844,0.22448979591836735,0.048649299144744876

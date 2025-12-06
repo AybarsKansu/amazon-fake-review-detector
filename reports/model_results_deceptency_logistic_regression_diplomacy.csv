@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,test_f1_deception,test_precision_deception,training_time_minutes
+Deceptency_LogisticRegression_Diplomacy,0.5576956823877077,"{'model__C': 10, 'model__solver': 'lbfgs', 'preprocessor__text__max_features': 10000}",0.7705217074060562,0.8667090485272303,0.9220018034265104,0.17562254259501967,0.12810707456978968,0.10774393479029337

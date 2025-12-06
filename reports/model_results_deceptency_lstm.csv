@@ -1,0 +1,2 @@
+category,best_cv_f1_score,test_accuracy,test_f1_truth,test_precision_truth,best_params,training_time_minutes
+Deceptency_LSTM,N/A,0.836191171105436,0.9093844601412714,0.9180929095354523,"{""epochs"": 20, ""batch_size"": 32}",7.130394184589386

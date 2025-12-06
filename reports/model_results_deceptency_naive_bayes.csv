@@ -1,0 +1,2 @@
+category,best_cv_f1_score,test_accuracy,test_f1_truth,test_precision_truth,best_params,training_time_minutes
+Deceptency_NaiveBayes,0.8414527418280205,0.7110543597227289,0.8265440210249672,0.9138014527845036,"{'model__alpha': 0.005, 'preprocessor__text__max_features': 15000}",0.06408337752024333

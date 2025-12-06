@@ -1,0 +1,2 @@
+category,best_cv_f1_score,best_params,test_accuracy,test_f1_truth,test_precision_truth,test_f1_deception,test_precision_deception,training_time_minutes
+Deceptency_RandomForest_Diplomacy,0.4899135446685879,"{'model__max_depth': 20, 'model__min_samples_split': 2, 'model__n_estimators': 100, 'preprocessor__text__max_features': 5000}",0.9109813936519519,0.9533460803059274,0.9135214364235984,0.031746031746031744,0.3333333333333333,0.7142261028289795
