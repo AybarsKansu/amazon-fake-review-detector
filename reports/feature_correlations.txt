@@ -1,0 +1,11 @@
+n_i_pronouns              0.117806
+word_count                0.089702
+char_count                0.084732
+n_we_pronouns             0.048171
+sentiment_subjectivity    0.034076
+sentiment_polarity        0.023116
+n_ellipses                0.012470
+avg_word_length           0.006477
+n_exclamation_marks       0.001218
+uppercase_ratio          -0.009925
+n_question_marks         -0.018996
